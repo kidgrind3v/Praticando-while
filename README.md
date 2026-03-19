@@ -2,18 +2,7 @@
 
 Projeto simples de uma calculadora feita em Java para praticar lógica de programação, estruturas de repetição (`while`) e condicionais (`if/else`).
 
----
 
-## 🚀 Funcionalidades
-
-- ➕ Soma
-- ✖️ Multiplicação
-- ➗ Divisão (com validação de divisão por zero)
-- ➖ Subtração
-- 🔁 Menu interativo com loop (`while`)
-- ⚠️ Tratamento de opção inválida
-
----
 
 ## 🧠 Conceitos praticados
 
@@ -33,7 +22,7 @@ O programa exibe um menu no terminal:
 
 Projeto simples de uma calculadora feita em Java para praticar lógica de programação, estruturas de repetição (`while`) e condicionais (`if/else`).
 
----
+
 
 ## 🚀 Funcionalidades
 
@@ -44,7 +33,7 @@ Projeto simples de uma calculadora feita em Java para praticar lógica de progra
 - 🔁 Menu interativo com loop (`while`)
 - ⚠️ Tratamento de opção inválida
 
----
+
 
 ## 🧠 Conceitos praticados
 
@@ -54,7 +43,7 @@ Projeto simples de uma calculadora feita em Java para praticar lógica de progra
 - Controle de fluxo
 - Lógica de programação
 
----
+
 
 ## 💻 Como funciona
 
